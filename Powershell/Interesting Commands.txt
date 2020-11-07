@@ -1,0 +1,4 @@
+
+// Add prefix to multiple files:
+Get-ChildItem -Exclude "Tema 3 - " | rename-item -NewName { "Tema 3 - " + $_.Name }
+
