@@ -1,0 +1,12 @@
+winget install -e --id AdoptOpenJDK.OpenJDK
+winget install -e --id Anaconda.Anaconda3
+winget install -e --id OpenJS.Nodejs
+winget install -e --id JetBrains.IntelliJIDEA.Ultimate
+winget install -e --id Microsoft.VisualStudioCode
+winget install -e --id Git.Git
+winget install -e --id Microsoft.WindowsTerminal
+winget install -e --id Docker.DockerDesktop
+winget install -e --id Oracle.JavaRuntimeEnvironment
+winget install -e --id WinSCP.WinSCP
+winget install -e --id Microsoft.PowerToys
+winget install -e --id gerardog.gsudo

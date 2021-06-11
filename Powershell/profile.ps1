@@ -1,10 +1,3 @@
-# Run __ notepad $profile __ to edit the file.
-
-Enum Computers {
-	Desktop = 1
-	Laptop = 2
-}
-
 Get-Date
 
 function conda_sh{
