@@ -18,3 +18,4 @@ winget install -e --id Transmission.Transmission
 winget install -e --id Duplicati.Duplicati
 winget install -e --id voidtools.Everything
 winget install -e --id File-New-Project.EarTrumpet
+winget install -e --id Rufus.Rufus
