@@ -1,0 +1,170 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2021-08-23T12:57:02.986-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Bitwarden.Bitwarden"
+				},
+				{
+					"PackageIdentifier" : "File-New-Project.EarTrumpet"
+				},
+				{
+					"PackageIdentifier" : "ShareX.ShareX"
+				},
+				{
+					"PackageIdentifier" : "Anaconda.Anaconda3"
+				},
+				{
+					"PackageIdentifier" : "Audacity.Audacity"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu"
+				},
+				{
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo"
+				},
+				{
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskMark"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier" : "voidtools.Everything"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitHubDesktop"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminalPreview"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier" : "OBSProject.OBSStudio"
+				},
+				{
+					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "Rufus.Rufus"
+				},
+				{
+					"PackageIdentifier" : "Spotify.Spotify"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "JAMSoftware.TreeSizeFree"
+				},
+				{
+					"PackageIdentifier" : "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode.Insiders"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS"
+				},
+				{
+					"PackageIdentifier" : "DBBrowserForSQLite.DBBrowserForSQLite"
+				},
+				{
+					"PackageIdentifier" : "Telegram.TelegramDesktop"
+				},
+				{
+					"PackageIdentifier" : "Oracle.VirtualBox"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2008Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "GOG.Galaxy"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2008Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "RevoUninstaller.RevoUninstaller"
+				},
+				{
+					"PackageIdentifier" : "Transmission.Transmission"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.GeForceExperience"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.Broadcast"
+				},
+				{
+					"PackageIdentifier" : "Duplicati.Duplicati"
+				},
+				{
+					"PackageIdentifier" : "gerardog.gsudo"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.0.11451"
+}
